@@ -1,5 +1,5 @@
 # ColemakPortuguese
-Layout misto de teclado com Colemak e Qwerty pra Mac usando o programa Ukelele (chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele)
+Layout misto de teclado com Colemak e Qwerty pra Mac usando o programa Ukelele (http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele)
 
 Pra fazer um novo layout misto de Colemak com Qwerty estou usando o Programa Ukelele, passos:
 
