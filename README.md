@@ -1,2 +1,19 @@
 # ColemakPortuguese
-Layout misto de teclado com Colemak e Qwerty pra Mac usando o programa Ukelele
+Layout misto de teclado com Colemak e Qwerty pra Mac usando o programa Ukelele (chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#uri=http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele)
+
+Pra fazer um novo layout misto de Colemak com Qwerty estou usando o Programa Ukelele, passos:
+
+- File > New From Current Input Source (Você precisa estar com o U.S. International -PC selecionado, para as teclas de acentos ˜,',^ serem as certas)
+- Crie um ícone customizado .icns, use qualquer conversor online
+- Double click  na linha do novo layout vai abrir o teclado pra voce mudar as teclas
+- Clique em info pra trocar o nome
+- Agora você precisa criar/editar os modificadores do teclado, vá na aba de modificadores e apague o do só o shift apertado para QWERTY uppercase
+- Crie um para o Caps Lock e o shift apertado  para QWERTY uppercase
+- Agora você vai ter que clicar com botão direito em todas as teclas que você quiser mudar (Change Output)
+
+Configuração final:
+
+Normal: QWERTY
+Shift: QWERTY Uppercase
+Caps Lock: Colemak
+Caps Lock + Shift: Colemak Uppercase
