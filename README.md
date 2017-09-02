@@ -11,7 +11,7 @@ Pra fazer um novo layout misto de Colemak com Qwerty estou usando o Programa Uke
 - Crie um com o Caps Lock apertado copiando o QWERTY normal
 - Agora crie um para o Caps Lock e o shift apertado que copia a opção 1 (qwert + shift) só que selecione a opção unliked
 - Agora você vai ter que clicar com botão direito em todas as teclas que você quiser mudar (Change Output)
-- Depois de terminar todas a mudanças é só salvar pegar o arquivo .bundle gerado e colocar na pasta ~/Library/Keyborad\ Layouts
+- Depois de terminar todas a mudanças é só salvar pegar o arquivo .bundle gerado e colocar na pasta /Library/Keyborad\ Layouts
 - Va nas preferencias de teclado e clique em adicionar input sources, procure seu novo layout, pode estar na opçao en ou outhers
 
 Configuração final:
