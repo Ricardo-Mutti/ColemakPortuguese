@@ -1185,8 +1185,8 @@
 			<when state="none" output="o"/>
 			<when state="1" output="ó"/>
 			<when state="2" output="ò"/>
-			<when state="3" output="õ"/>
-			<when state="4" output="ô"/>
+			<when state="3" output="ô"/>
+			<when state="4" output="õ"/>
 		</action>
 		<action id="lower-u">
 			<when state="none" output="u"/>
