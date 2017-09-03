@@ -403,7 +403,7 @@
 			<key code="11" output="∫"/>
 			<key code="12" output="œ"/>
 			<key code="13" output="∑"/>
-			<key code="14" action="0"/>
+			<key code="14" action="state-1"/>
 			<key code="15" output="®"/>
 			<key code="16" output="¥"/>
 			<key code="17" output="†"/>
@@ -421,9 +421,9 @@
 			<key code="29" output="º"/>
 			<key code="30" output="‘"/>
 			<key code="31" output="ø"/>
-			<key code="32" action="3"/>
+			<key code="32" output="Nothing"/>
 			<key code="33" output="“"/>
-			<key code="34" action="2"/>
+			<key code="34" action="state-3"/>
 			<key code="35" output="π"/>
 			<key code="36" output="&#x000D;"/>
 			<key code="37" output="¬"/>
@@ -434,12 +434,12 @@
 			<key code="42" output="«"/>
 			<key code="43" output="≤"/>
 			<key code="44" output="÷"/>
-			<key code="45" action="4"/>
+			<key code="45" action="state-4"/>
 			<key code="46" output="µ"/>
 			<key code="47" output="≥"/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" output=" "/>
-			<key code="50" action="1"/>
+			<key code="50" action="state-2"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="52" output="&#x0003;"/>
 			<key code="53" output="&#x001B;"/>
@@ -1076,8 +1076,8 @@
 			<key code="93" output="¥"/>
 			<key code="94" output="_"/>
 			<key code="95" output=","/>
-			<key code="102" action="5"/>
-			<key code="104" action="5"/>
+			<key code="102" action="space"/>
+			<key code="104" action="space"/>
 		</keyMap>
 		<keyMap index="1" baseMapSet="16c" baseIndex="1">
 			<key code="19" output="&#x0022;"/>
@@ -1096,8 +1096,8 @@
 			<key code="93" output="|"/>
 			<key code="94" output="_"/>
 			<key code="95" output=","/>
-			<key code="102" action="5"/>
-			<key code="104" action="5"/>
+			<key code="102" action="space"/>
+			<key code="104" action="space"/>
 		</keyMap>
 		<keyMap index="2" baseMapSet="16c" baseIndex="2">
 			<key code="24" output="^"/>
@@ -1108,43 +1108,42 @@
 			<key code="93" output="¥"/>
 			<key code="94" output="_"/>
 			<key code="95" output=","/>
-			<key code="102" action="5"/>
-			<key code="104" action="5"/>
+			<key code="102" action="space"/>
+			<key code="104" action="space"/>
 		</keyMap>
 		<keyMap index="3" baseMapSet="16c" baseIndex="3">
 			<key code="93" output="\"/>
-			<key code="94" action="1"/>
 			<key code="95" output=","/>
-			<key code="102" action="5"/>
-			<key code="104" action="5"/>
+			<key code="102" action="space"/>
+			<key code="104" action="space"/>
 		</keyMap>
 		<keyMap index="4" baseMapSet="16c" baseIndex="4">
 			<key code="93" output="|"/>
 			<key code="94" output="`"/>
 			<key code="95" output=","/>
-			<key code="102" action="5"/>
-			<key code="104" action="5"/>
+			<key code="102" action="space"/>
+			<key code="104" action="space"/>
 		</keyMap>
 		<keyMap index="5" baseMapSet="16c" baseIndex="5">
 			<key code="93" output="\"/>
 			<key code="94" output="`"/>
 			<key code="95" output=","/>
-			<key code="102" action="5"/>
-			<key code="104" action="5"/>
+			<key code="102" action="space"/>
+			<key code="104" action="space"/>
 		</keyMap>
 		<keyMap index="6" baseMapSet="16c" baseIndex="6">
 			<key code="93" output="\"/>
 			<key code="94" output="_"/>
 			<key code="95" output=","/>
-			<key code="102" action="5"/>
-			<key code="104" action="5"/>
+			<key code="102" action="space"/>
+			<key code="104" action="space"/>
 		</keyMap>
 		<keyMap index="7" baseMapSet="16c" baseIndex="7">
 			<key code="93" output="|"/>
 			<key code="94" output="_"/>
 			<key code="95" output=","/>
-			<key code="102" action="5"/>
-			<key code="104" action="5"/>
+			<key code="102" action="space"/>
+			<key code="104" action="space"/>
 		</keyMap>
 		<keyMap index="8" baseMapSet="16c" baseIndex="8">
 			<key code="24" output="^"/>
@@ -1155,8 +1154,8 @@
 			<key code="93" output="¥"/>
 			<key code="94" output="_"/>
 			<key code="95" output=","/>
-			<key code="102" action="5"/>
-			<key code="104" action="5"/>
+			<key code="102" action="space"/>
+			<key code="104" action="space"/>
 		</keyMap>
 	</keyMapSet>
 
