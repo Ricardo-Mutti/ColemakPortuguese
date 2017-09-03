@@ -1265,13 +1265,12 @@
 			<when state="5" output="&#x0022;"/>
 		</action>
 	</actions>
-	<terminators>
-		<when state="1" output="&#x0027;"/>
-		<when state="2" output="´"/>
-		<when state="3" output="¨"/>
-		<when state="4" output="&#x0022;"/>
-		<when state="5" output="`"/>
-		<when state="6" output="˜"/>
-		<when state="7" output="ˆ"/>
+<!-- The hint symbol that appears in yellow --> 
+	<terminators> 
+		<when state="1" output="&#x0027;"/> 
+		<when state="2" output="`"/> 
+		<when state="3" output="ˆ"/> 
+		<when state="4" output="˜"/> 
+		<when state="5" output="&#x0022;"/> 
 	</terminators>
 </keyboard>
