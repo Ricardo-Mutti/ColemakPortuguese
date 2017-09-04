@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppleCurrentKeyboardLayoutInputSourceID</key>
+	<string>org.sil.ukelele.keyboardlayout.</string>
+	<key>AppleDateResID</key>
+	<dict>
+		<key>smRoman</key>
+		<integer>71</integer>
+	</dict>
+	<key>AppleEnabledInputSources</key>
+	<array>
+		<dict>
+			<key>InputSourceKind</key>
+			<string>Keyboard Layout</string>
+			<key>KeyboardLayout ID</key>
+			<integer>-9819</integer>
+			<key>KeyboardLayout Name</key>
+			<string>ColemakMutti</string>
+		</dict>
+	</array>
+	<key>AppleInputSourceHistory</key>
+	<array>
+		<dict>
+			<key>InputSourceKind</key>
+			<string>Keyboard Layout</string>
+			<key>KeyboardLayout ID</key>
+			<integer>-9819</integer>
+			<key>KeyboardLayout Name</key>
+			<string>ColemakMutti</string>
+		</dict>
+	</array>
+	<key>AppleNumberResID</key>
+	<dict>
+		<key>smRoman</key>
+		<integer>71</integer>
+	</dict>
+	<key>AppleSelectedInputSources</key>
+	<array>
+		<dict>
+			<key>InputSourceKind</key>
+			<string>Keyboard Layout</string>
+			<key>KeyboardLayout ID</key>
+			<integer>-9819</integer>
+			<key>KeyboardLayout Name</key>
+			<string>ColemakMutti</string>
+		</dict>
+	</array>
+	<key>AppleTimeResID</key>
+	<dict>
+		<key>smRoman</key>
+		<integer>71</integer>
+	</dict>
+</dict>
+</plist>

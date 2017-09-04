@@ -160,7 +160,7 @@
 			<key code="126" output="&#x001E;"/>
 		</keyMap>
 	<!-- SHIFT pressed -->
-	<!-- The action are diffents becaure the chars are all uppercase -->
+	<!-- The action are diffents because the chars are all uppercase -->
 		<keyMap index="1">
 			<key code="0" action="upper-a"/>
 			<key code="1" output="R"/>
@@ -202,7 +202,7 @@
 			<key code="37" output="I"/>
 			<key code="38" output="N"/>
 			<key code="39" action="state-5"/>
-			<key code="40" output="E"/>
+			<key code="40" output="upper-e"/>
 			<key code="41" output="O"/>
 			<key code="42" output="|"/>
 			<key code="43" output="&#x003C;"/>
