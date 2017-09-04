@@ -202,7 +202,7 @@
 			<key code="37" output="I"/>
 			<key code="38" output="N"/>
 			<key code="39" action="state-5"/>
-			<key code="40" output="upper-e"/>
+			<key code="40" action="upper-e"/>
 			<key code="41" output="O"/>
 			<key code="42" output="|"/>
 			<key code="43" output="&#x003C;"/>
