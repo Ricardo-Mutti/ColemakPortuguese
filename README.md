@@ -20,3 +20,6 @@ Normal: QWERTY
 Shift: QWERTY Uppercase
 Caps Lock: Colemak
 Caps Lock + Shift: Colemak Uppercase
+
+
+https://developer.apple.com/library/content/technotes/tn2056/_index.html
