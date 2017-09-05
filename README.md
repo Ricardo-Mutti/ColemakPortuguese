@@ -21,5 +21,7 @@ Shift: QWERTY Uppercase
 Caps Lock: Colemak
 Caps Lock + Shift: Colemak Uppercase
 
+Caso o campo de password esteja mudandi automáticamente é culpa de algum shortcut da opção Text nas preferencias do teclado, remova todos!
+https://apple.stackexchange.com/questions/6810/why-does-my-keyboard-switch-language-in-most-input-fields-on-the-web
 
 https://developer.apple.com/library/content/technotes/tn2056/_index.html
