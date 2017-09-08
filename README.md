@@ -27,3 +27,5 @@ https://apple.stackexchange.com/questions/6810/why-does-my-keyboard-switch-langu
 https://developer.apple.com/library/content/technotes/tn2056/_index.html
 
 https://apple.stackexchange.com/questions/44921/how-to-remove-or-disable-a-default-keyboard-layout
+
+^ Não esqueça de reinicar o computador depois de editar (veja se você tem permissão pra editar) o arquivo e que o layout customizado esteja selecionado
