@@ -25,3 +25,5 @@ Caso o campo de password esteja mudandi automáticamente é culpa de algum short
 https://apple.stackexchange.com/questions/6810/why-does-my-keyboard-switch-language-in-most-input-fields-on-the-web
 
 https://developer.apple.com/library/content/technotes/tn2056/_index.html
+
+https://apple.stackexchange.com/questions/44921/how-to-remove-or-disable-a-default-keyboard-layout
