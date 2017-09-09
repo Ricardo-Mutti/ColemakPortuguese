@@ -193,7 +193,7 @@
 			<key code="28" output="*"/>
 			<key code="29" output=")"/>
 			<key code="30" output="}"/>
-			<key code="31" action="upper-o"/>
+			<key code="31" action="Y"/>
 			<key code="32" output="L"/>
 			<key code="33" output="{"/>
 			<key code="34" action="upper-u"/>
@@ -207,7 +207,7 @@
 			<key code="42" output="|"/>
 			<key code="43" output="&#x003C;"/>
 			<key code="44" output="?"/>
-			<key code="45" output="N"/>
+			<key code="45" output="K"/>
 			<key code="46" output="M"/>
 			<key code="47" output="&#x003E;"/>
 			<key code="48" output="&#x0009;"/>
@@ -307,7 +307,7 @@
 			<key code="28" output="*"/>
 			<key code="29" output=")"/>
 			<key code="30" output="}"/>
-			<key code="31" action="upper-o"/>
+			<key code="31" action="Y"/>
 			<key code="32" output="L"/>
 			<key code="33" output="{"/>
 			<key code="34" action="upper-u"/>
@@ -316,12 +316,12 @@
 			<key code="37" output="I"/>
 			<key code="38" output="N"/>
 			<key code="39" action="state-5"/>
-			<key code="40" output="E"/>
+			<key code="40" action="upper-e"/>
 			<key code="41" output="O"/>
 			<key code="42" output="|"/>
 			<key code="43" output="&#x003C;"/>
 			<key code="44" output="?"/>
-			<key code="45" output="N"/>
+			<key code="45" output="K"/>
 			<key code="46" output="M"/>
 			<key code="47" output="&#x003E;"/>
 			<key code="48" output="&#x0009;"/>
