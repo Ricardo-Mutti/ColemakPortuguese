@@ -85,7 +85,7 @@
 			<key code="34" action="lower-u"/>
 			<key code="35" output=";"/>
 			<key code="36" output="&#x000D;"/>
-			<key code="37" output="i"/>
+			<key code="37" action="lower-i"/>
 			<key code="38" output="n"/>
 			<key code="39" action="state-1"/>
 			<key code="40" action="lower-e"/>
@@ -199,7 +199,7 @@
 			<key code="34" action="upper-u"/>
 			<key code="35" output=":"/>
 			<key code="36" output="&#x000D;"/>
-			<key code="37" output="I"/>
+			<key code="37" action="upper-i"/>
 			<key code="38" output="N"/>
 			<key code="39" action="state-5"/>
 			<key code="40" action="upper-e"/>
@@ -313,7 +313,7 @@
 			<key code="34" action="upper-u"/>
 			<key code="35" output=":"/>
 			<key code="36" output="&#x000D;"/>
-			<key code="37" output="I"/>
+			<key code="37" action="upper-i"/>
 			<key code="38" output="N"/>
 			<key code="39" action="state-5"/>
 			<key code="40" action="upper-e"/>
@@ -878,7 +878,7 @@
 			<key code="34" action="lower-u"/>
 			<key code="35" output=";"/>
 			<key code="36" output="&#x000D;"/>
-			<key code="37" output="i"/>
+			<key code="37" action="lower-i"/>
 			<key code="38" output="n"/>
 			<key code="39" action="state-1"/>
 			<key code="40" action="lower-e"/>
@@ -991,7 +991,7 @@
 			<key code="34" action="lower-u"/>
 			<key code="35" output=";"/>
 			<key code="36" output="&#x000D;"/>
-			<key code="37" output="i"/>
+			<key code="37" action="lower-i"/>
 			<key code="38" output="n"/>
 			<key code="39" action="state-1"/>
 			<key code="40" action="lower-e"/>
